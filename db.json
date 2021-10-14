@@ -1,14 +1,14 @@
 {
-  "users": [
+  "creational":
     {
       "id": 1,
-      "name": "David",
-      "age": 30
+      "name": "Creational Design Patterns",
+      "description": "In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or in added complexity to the design"
     },
+  "structural":
     {
-      "name": "John",
       "id": 2,
-      "age": 40
+      "name": "Structural Design Patterns",
+      "description": "In software engineering, structural design patterns are design patterns that ease the design by identifying a simple way to realize relationships among entities."
     }
-  ]
 }
